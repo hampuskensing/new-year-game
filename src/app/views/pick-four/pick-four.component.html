@@ -1,0 +1,8 @@
+<div class="pick-four-board">
+  <div *ngFor="let category of game" class="category">
+    <div class="title" (click)="category.flipped = !category.flipped">
+      {{category.category}}
+    </div>
+    <flip-card [flipped]="category.flipped" class="card" *ngFor="let question of category.questions" [question]="question.text"></flip-card>
+  </div>
+</div>

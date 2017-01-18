@@ -1,0 +1,15 @@
+.title {
+  margin-top: 200px;
+  font-size: 64px;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+}
+
+.byline {
+  margin-top: 20px;
+  font-size: 48px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}

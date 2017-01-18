@@ -1,0 +1,126 @@
+{
+  "2016-1": [
+    { "category": "Städer på Engelska",
+      "questions":
+        [
+          { "value": 100, "text": "Newbridge"},
+          { "value": 200, "text": "Panties"},
+          { "value": 300, "text": "Riverdick"},
+          { "value": 400, "text": "Not the wrong-bay"},
+          { "value": 500, "text": "Duck sneezed here"}
+        ]
+    },
+    { "category": "Duetter",
+      "questions":
+      [
+        { "value": 100, "text": "Musik"},
+        { "value": 200, "text": "Musik"},
+        { "value": 300, "text": "Musik"},
+        { "value": 400, "text": "Musik"},
+        { "value": 500, "text": "Musik"}
+      ]
+    },
+    { "category": "Livets goda",
+      "questions":
+      [
+        { "value": 100, "text": "Klottrades på antika badhus och tros betyda 'salus per aqua'."},
+        { "value": 200, "text": "Yamasaki, Bushmills och Jameson är exempel på detta."},
+        { "value": 300, "text": "Sänker blodtrycket, minskar kolesterolvärdet och är antidepressivt."},
+        { "value": 400, "text": "En béarnaisesås med tomatsmak."},
+        { "value": 500, "text": "Special"}
+      ]
+    },
+    { "category": "Citat",
+      "questions":
+      [
+        { "value": 100, "text": "Nu vänder vi blad och går vidare"},
+        { "value": 200, "text": "I'm gonna float like a butterfly and sting like a bee"},
+        { "value": 300, "text": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."},
+        { "value": 400, "text": "Live as if you were to die tomorrow. Learn as if you were to live forever."},
+        { "value": 500, "text": "Special"}
+      ]
+    },
+    { "category": "1990 filmer",
+      "questions":
+      [
+        { "value": 100, "text": "Arg general tar över fängelse, men stoppas utav brittisk spion och blivande pappa."},
+        { "value": 200, "text": "Tummen mitt i handen reparerar villa i förort."},
+        { "value": 300, "text": "Busig pojke tar hjälp av vänner för att rädda stor fisk."},
+        { "value": 400, "text": "Affärsman vilse i Los Angeles plockar upp dyr guide och blir kär."},
+        { "value": 500, "text": "Special"}
+      ]
+    },
+    { "category": "Filmmusik",
+      "questions":
+      [
+        { "value": 100, "text": "Musik"},
+        { "value": 200, "text": "Musik"},
+        { "value": 300, "text": "Musik"},
+        { "value": 400, "text": "Musik"},
+        { "value": 500, "text": "Musik"}
+      ]
+    }
+  ],
+  "2016-2": [
+    { "category": "2017",
+      "questions":
+      [
+        { "value": 100, "text": "This is a question"},
+        { "value": 200, "text": "This is a question"},
+        { "value": 300, "text": "This is a question"},
+        { "value": 400, "text": "This is a question"},
+        { "value": 500, "text": "This is a question"}
+      ]
+    },
+    { "category": "TV-musik",
+      "questions":
+      [
+        { "value": 100, "text": "This is a question"},
+        { "value": 200, "text": "This is a question"},
+        { "value": 300, "text": "This is a question"},
+        { "value": 400, "text": "This is a question"},
+        { "value": 500, "text": "This is a question"}
+      ]
+    },
+    { "category": "Filmmusik",
+      "questions":
+      [
+        { "value": 100, "text": "This is a question"},
+        { "value": 200, "text": "This is a question"},
+        { "value": 300, "text": "This is a question"},
+        { "value": 400, "text": "This is a question"},
+        { "value": 500, "text": "This is a question"}
+      ]
+    },
+    { "category": "Filmmusik",
+      "questions":
+      [
+        { "value": 100, "text": "This is a question"},
+        { "value": 200, "text": "This is a question"},
+        { "value": 300, "text": "This is a question"},
+        { "value": 400, "text": "This is a question"},
+        { "value": 500, "text": "This is a question"}
+      ]
+    },
+    { "category": "Filmmusik",
+      "questions":
+      [
+        { "value": 100, "text": "This is a question"},
+        { "value": 200, "text": "This is a question"},
+        { "value": 300, "text": "This is a question"},
+        { "value": 400, "text": "This is a question"},
+        { "value": 500, "text": "This is a question"}
+      ]
+    },
+    { "category": "Filmmusik",
+      "questions":
+      [
+        { "value": 100, "text": "This is a question"},
+        { "value": 200, "text": "This is a question"},
+        { "value": 300, "text": "This is a question"},
+        { "value": 400, "text": "This is a question"},
+        { "value": 500, "text": "This is a question"}
+      ]
+    }
+  ]
+}

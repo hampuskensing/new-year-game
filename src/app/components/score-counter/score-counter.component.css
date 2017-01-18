@@ -1,0 +1,39 @@
+.container {
+  display: inline-block;
+  height: 60px;
+}
+
+.score {
+  display: inline-block;
+  font-size: 32px;
+  font-weight: bold;
+  float:left;
+  height: 60px;
+  width: 64px;
+  line-height: 60px;
+}
+
+.controls {
+  display: inline-block;
+  float: left;
+  height: 60px;
+}
+
+.increase {
+  margin: 6px;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid black;
+}
+
+.decrease {
+  margin: 6px;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+
+  border-top: 20px solid black;
+}

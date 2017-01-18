@@ -1,0 +1,8 @@
+<div class="jeopardy-board">
+  <div *ngFor="let category of game" class="category">
+    <div class="title">
+      {{category.category}}
+    </div>
+    <flip-card class="card" *ngFor="let question of category.questions" [value]="question.value" [question]="question.text"></flip-card>
+  </div>
+</div>

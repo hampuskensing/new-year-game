@@ -1,3 +1,9 @@
-<h1>
-  {{title}}
-</h1>
+<div class="score-board">
+  <div class="previous" (click)="gotoPrevious()"></div>
+  <span class="team-name">Tjejerna:</span>
+  <score-counter class="score"></score-counter>
+  <span class="team-name">Killarna:</span>
+  <score-counter class="score"></score-counter>
+  <div class="next" (click)="gotoNext()"></div>
+</div>
+<router-outlet></router-outlet>

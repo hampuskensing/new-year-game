@@ -1,0 +1,8 @@
+<div #container class="card effect__click" (click)="flipCard()" [ngClass]="{flipped: flipped}">
+  <div class="card__front">
+    <p class="card__text">{{value}}</p>
+  </div>
+  <div class="card__back">
+    <p class="card__text">{{question}}</p>
+  </div>
+</div>

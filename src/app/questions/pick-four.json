@@ -1,0 +1,58 @@
+{
+  "boat-words": [
+    { "category": "båtord",
+      "questions":
+      [
+        { "value": 0, "text": "Svängskott"},
+        { "value": 0, "text": "Armering"},
+        { "value": 0, "text": "Atrium"},
+        { "value": 0, "text": "Durk"},
+        { "value": 0, "text": "Lejdare"},
+        { "value": 0, "text": "Utkast"},
+        { "value": 0, "text": "Kabyss"},
+        { "value": 0, "text": "Ansa"}
+      ]
+    },
+    { "category": "adverb",
+      "questions":
+      [
+        { "value": 0, "text": "Snabbt"},
+        { "value": 0, "text": "Lördag"},
+        { "value": 0, "text": "Inte"},
+        { "value": 0, "text": "Bra"},
+        { "value": 0, "text": "Igår"},
+        { "value": 0, "text": "Genomskådade"},
+        { "value": 0, "text": "Glasstrut"},
+        { "value": 0, "text": "Själv"}
+      ]
+    }
+  ],
+  "moustache-styles": [
+    { "category": "Mustaschstilar",
+      "questions":
+      [
+        { "value": 0, "text": "Tomato"},
+        { "value": 0, "text": "English"},
+        { "value": 0, "text": "Kung Fu"},
+        { "value": 0, "text": "General"},
+        { "value": 0, "text": "Gunslinger"},
+        { "value": 0, "text": "Garage Door"},
+        { "value": 0, "text": "Handlebars"},
+        { "value": 0, "text": "Pencil"}
+      ]
+    },
+    { "category": "James Bond filmer",
+      "questions":
+      [
+        { "value": 0, "text": "You Only Live Twice"},
+        { "value": 0, "text": "The World Has Had Enough"},
+        { "value": 0, "text": "For Your Eyes Only"},
+        { "value": 0, "text": "Thunderball"},
+        { "value": 0, "text": "Goldbringer"},
+        { "value": 0, "text": "Octopussy"},
+        { "value": 0, "text": "Escape From LA"},
+        { "value": 0, "text": "Tomorrow Never Spies"}
+      ]
+    }
+  ]
+}
